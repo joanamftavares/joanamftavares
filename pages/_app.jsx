@@ -37,7 +37,7 @@ function MyApp({ Component, pageProps }) {
     });
   return (<>
     <Head>
-        <title>Umut Bayraktar</title>
+        <title>Joana Tavares</title>
         <link rel="shortcut icon" href="https://media.discordapp.net/attachments/737348411568685066/954506783777493072/Umut_Bayraktar_Icon.png" type="image/x-icon" ></link>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="https://pro.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" />
@@ -71,7 +71,7 @@ function MyApp({ Component, pageProps }) {
         <div className="max-w-screen-lg p-5 w-full md:w-10/12 lg:w-8/12 mx-auto transition-all duration-300">
           <div className="md:flex w-full items-center justify-between">
             <div>
-              <p>❤️ Umut Bayraktar</p></div>
+              <p>❤️ Joana Tavares</p></div>
             <div className="mt-2 md:mt-0 flex items-center">
               <a href="https://discord.gg/58e5H4try3" target="_blank" rel="noreferrer" className="w-full md:w-auto bg-neutral-700/5 hover:bg-neutral-700/20 px-4 py-2 rounded-md transition-all duration-200">
                 <i className="fab fa-discord mr-2" />Join My Discord
