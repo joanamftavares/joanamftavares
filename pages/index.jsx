@@ -26,7 +26,7 @@ export default function Home() {
             
                 </div>
                 <p className="text-white/50 text-md mt-3">
-I am a professional editor and software developer. I have been professionally interested in community management and development for 5 years, I have high level knowledge and experience in areas such as community management and social media management.
+I have always considered myself a problem solver, for every problem that might appear, I will always find a solution to deal with it. During my academic journey, I became fascinated with transforming simple data into a world of knowledge and I am eager to feel the same way while facing new challenges in the next stage of my career
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
@@ -56,7 +56,7 @@ I am a professional editor and software developer. I have been professionally in
                   .map((_, __) => (
                     <a
                       key={__}
-                      href={`https://github.com/umutxyp/`+_.name}
+                      href={`https://github.com/joanamftavares/`+_.name}
                       target="_blank"
                       rel="noreferrer"
                       className="bg-[#191932]/20 p-4 hover:bg-[#191932]/30 shadow-lg hover:shadow-xl transition-all duration-200 rounded-lg w-full"
