@@ -1,5 +1,5 @@
-# Personal-Website
-It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
+# portfolio
+forked & adapted from [umutxyp repository](https://github.com/umutxyp/Personal-Website)
 <hr>
 <h3>
 Discord Developers: https://discord.dev<br>
