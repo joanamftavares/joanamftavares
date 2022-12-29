@@ -6,7 +6,7 @@
 html {
   background: rgb(0, 0, 0);
   --scrollbar-background: #434243;
-  color: #3EB489;
+  color: #fff;
 }
 
 ::-webkit-scrollbar {
