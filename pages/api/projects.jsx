@@ -9,7 +9,7 @@ export default async (req, res) => {
     },
     {
       id: 2,
-      image: "https://cdn.discordapp.com/attachments/919966397524738091/1058025165923041351/image.png",
+      image: "https://cdn.discordapp.com/attachments/919966397524738091/1058025616886218843/index.png",
       name: "bi4all - dashboard",
       description: "using power bi, we developed a dashboard with the analysis of multiple departments in bi4all. we used multiple techniques and KPI's to help provide insights/solutions.",
       link: "https://app.powerbi.com/view?r=eyJrIjoiNGM3ZDAwZmMtNzhiNi00ZGUyLWJmN2QtZjg3MTA2ODc2ZjRkIiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9",
