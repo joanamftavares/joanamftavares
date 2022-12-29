@@ -2,10 +2,10 @@ export default async (req, res) => {
   const data = [
     {
       id: 1,
-      image: "https://media.discordapp.net/attachments/737348411568685066/954502826791428136/codeshare_logo.png",
-      name: "project 1",
-      description: "project 1 description",
-      link: "https://codeshare.me",
+      image: "https://ibb.co/LnCYnfR",
+      name: "investments 4 some",
+      description: "app developed during first year of my master's degree. it aims to educate the user on how to invest and how to analyze usual technical indicators",
+      link: "https://investments4some-n1xe.onrender.com/",
     },
     {
       id: 2,
