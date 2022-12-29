@@ -4,7 +4,7 @@ const items = [
   ]
 
 const navItems = [
-    { icon: 'fal fa-home', active: 'fa fa-home', label: 'home', href: '/', color:'#3EB489' },
+    { icon: 'fal fa-home', active: 'fa fa-home', label: 'home', href: '/'},
     { icon: 'fal fa-compass', active: 'fa fa-compass', label: 'projects', href: '/projects' },
     { icon: 'fal fa-phone', active: 'fa fa-phone', label: 'contact', href: '/contact' }
 ]
@@ -29,7 +29,7 @@ const Header = () => {
             <div className="flex justify-center md:justify-start items-center space-x-4 py-2">
                 {navItems.map(item => (
                     <Link key={item.label} href={item.href}>
-                        <a className={`flex items-center justify-center text-white/50 cursor-pointer hover:text-white/100 rounded-xl transition-all duration-150 ${router.asPath === item.href && 'text-white/100'}`}>
+                        <a className={`flex items-center justify-center text-green/50 cursor-pointer hover:text-green/100 rounded-xl transition-all duration-150 ${router.asPath === item.href && 'text-green/100'}`}>
                             <i className={`${router.asPath === item.href ? item.active : item.icon} mr-2`} />{item.label}
                         </a>
                     </Link>
