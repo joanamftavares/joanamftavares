@@ -23,9 +23,9 @@ export default function Home() {
                           <i className={`fa fa-circle text-online mr-2`} />Online
                     </span>
                   </Tippy>
-                <Text>{'\n'}</Text>
             
                 </div>
+                <br></br>
                 <p className="text-white/50 text-md mt-3">
 I have always considered myself a problem solver, for every problem that might appear, I will always find a solution to deal with it. During my academic journey, I became fascinated with transforming simple data into a world of knowledge and I am eager to feel the same way while facing new challenges in the next stage of my career.
                 </p>
