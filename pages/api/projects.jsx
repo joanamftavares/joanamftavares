@@ -16,7 +16,7 @@ export default async (req, res) => {
     },
      {
       id: 3,
-      image: "https://cdn.discordapp.com/attachments/919966397524738091/1059092927026053151/image.png",
+      image: "https://cdn.discordapp.com/attachments/919966397524738091/1059093526555672626/image.png",
       name: "spotify moods",
       description: "study of how music changes your mood and how certain features of a song change throughout the years.",
       link: "https://spotify-moods-dashboard.onrender.com/",
