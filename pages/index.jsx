@@ -26,7 +26,7 @@ export default function Home() {
             
                 </div>
                 <br></br>
-                <style={{line-height: 3}} className="text-white/50 text-md mt-3 lineHight-30">
+                <p className="text-white/50 text-md mt-6">
 I have always considered myself a problem solver, for every problem that might appear, I will always find a solution to deal with it. During my academic journey, I became fascinated with transforming simple data into a world of knowledge and I am eager to feel the same way while facing new challenges in the next stage of my career.
                 </p>
               </div>
