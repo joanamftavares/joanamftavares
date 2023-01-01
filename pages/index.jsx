@@ -26,7 +26,7 @@ export default function Home() {
             
                 </div>
                 <br></br>
-                <p className="text-white/50 text-md mt-6">
+                <p className="text-white/50 text-md mt-8">
 I have always considered myself a problem solver. For every problem that might appear, I will always find a solution to deal with it. During my academic journey, I became fascinated with transforming simple data into a world of knowledge and I am eager to feel the same way while facing new challenges in the next stage of my career.
                 </p>
               </div>
@@ -41,7 +41,7 @@ I have always considered myself a problem solver. For every problem that might a
               
             </div>
             <br></br>
-            <span style={{ zIndex: '-1', color:'#AAF0C1', opacity:'0.8' }} className="text-white/5 absolute bottom-3 left-7 text-l sm:text-xl md:text-xl lg:text-xl font-semibold">aspiring Data Analyst</span>
+            <span style={{ zIndex: '-1', color:'#AAF0C1', opacity:'0.6' }} className="text-white/5 absolute bottom-3 left-7 text-l sm:text-xl md:text-xl lg:text-xl font-semibold">aspiring Data Analyst</span>
           </div>
           <div>
               <img alt="logos" src={`https://cdn.discordapp.com/attachments/919966397524738091/1059127861711228928/Design_sem_nome.jpg`}/>
