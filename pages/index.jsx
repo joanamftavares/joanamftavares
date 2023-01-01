@@ -48,7 +48,7 @@ I have always considered myself a problem solver, for every problem that might a
   )
 }
 
-{/*
+/*
 
         <div className="py-20">
         <p className="text-3xl text-white font-semibold">GitHub Repositories</p>
@@ -130,5 +130,5 @@ I have always considered myself a problem solver, for every problem that might a
               ))}
         </div>
       </div>
-/*}
+*/
 
