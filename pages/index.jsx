@@ -40,7 +40,7 @@ I have always considered myself a problem solver, for every problem that might a
               
             </div>
             <br></br>
-            <span style={{ zIndex: '-1', color:'#3EB489', opacity:'0.5' }} className="text-white/5 absolute bottom-3 left-7 text-l sm:text-2xl md:text-4xl lg:text-3xl font-semibold">aspiring Data Analyst</span>
+            <span style={{ zIndex: '-1', color:'#AAF0C1', opacity:'0.3' }} className="text-white/5 absolute bottom-3 left-7 text-l sm:text-xl md:text-xl lg:text-xl font-semibold">aspiring Data Analyst</span>
           </div>
       </div>
 
