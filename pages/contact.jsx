@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <div className="py-20">
-        <span style={{ color:'#AAF0C1' }}  className="text-3xl text-white font-semibold text-center">find me at</span>
+        <p style={{ color:'#AAF0C1' }}  className="text-3xl text-white font-semibold text-center">find me at</p>
         <div className=" flex justify-center flex-col items-center">
             <div className="max-w-lg w-full">
                 <a href="mailto:joanamftavares@gmail.com">
