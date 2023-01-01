@@ -1,6 +1,6 @@
 
 const items = [
-    { icon: 'fab fa-linkedin', link: 'https://www.linkedin.com/in/joanamftavares/'}
+    { icon: 'fab fa-github', link: 'https://github.com/joanamftavares'}
   ]
 
 const navItems = [
