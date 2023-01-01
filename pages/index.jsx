@@ -44,8 +44,11 @@ I have always considered myself a problem solver, for every problem that might a
             <span style={{ zIndex: '-1', color:'#AAF0C1', opacity:'0.8' }} className="text-white/5 absolute bottom-3 left-7 text-l sm:text-xl md:text-xl lg:text-xl font-semibold">aspiring Data Analyst</span>
           </div>
       </div>
+    </>
+  )
+}
 
-"""
+{/*
 
         <div className="py-20">
         <p className="text-3xl text-white font-semibold">GitHub Repositories</p>
@@ -127,8 +130,5 @@ I have always considered myself a problem solver, for every problem that might a
               ))}
         </div>
       </div>
-"""
+/*}
 
-    </>
-  )
-}
