@@ -71,7 +71,7 @@ function MyApp({ Component, pageProps }) {
         <div className="max-w-screen-lg p-5 w-full md:w-10/12 lg:w-8/12 mx-auto transition-all duration-300">
           <div className="md:flex w-full items-center justify-between">
             <div>
-              <p>❤️ Joana Tavares</p></div>
+              <p>JT</p></div>
 
           </div>
         </div>
