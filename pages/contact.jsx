@@ -11,7 +11,6 @@ export default function Home() {
     <>
       <div className="py-20">
         <p className="text-3xl text-white font-semibold text-center">contact me</p>
-        <p className="text-xl text-white/50 font-normal text-center mb-5">where can you find me?.</p>
         <div className=" flex justify-center flex-col items-center">
             <div className="max-w-lg w-full">
                 <a href="mailto:joanamftavares@gmail.com">
