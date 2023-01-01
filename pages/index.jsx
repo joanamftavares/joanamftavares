@@ -24,6 +24,8 @@ export default function Home() {
                     </span>
                   </Tippy>
                 <br></br>
+                <br></br>
+                <br></br>
             
                 </div>
                 <p className="text-white/50 text-md mt-3">
