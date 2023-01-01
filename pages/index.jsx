@@ -23,9 +23,7 @@ export default function Home() {
                           <i className={`fa fa-circle text-online mr-2`} />Online
                     </span>
                   </Tippy>
-                <br></br>
-                <br></br>
-                <br></br>
+                <Text>{'\n'}</Text>
             
                 </div>
                 <p className="text-white/50 text-md mt-3">
