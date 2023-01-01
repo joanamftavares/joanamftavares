@@ -43,6 +43,9 @@ I have always considered myself a problem solver, for every problem that might a
             <br></br>
             <span style={{ zIndex: '-1', color:'#AAF0C1', opacity:'0.8' }} className="text-white/5 absolute bottom-3 left-7 text-l sm:text-xl md:text-xl lg:text-xl font-semibold">aspiring Data Analyst</span>
           </div>
+          <div>
+              <img alt="logos" src={`https://cdn.discordapp.com/attachments/919966397524738091/1059127861711228928/Design_sem_nome.jpg`}/>
+          </div>
       </div>
     </>
   )
